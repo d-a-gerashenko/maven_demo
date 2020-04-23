@@ -1,8 +1,8 @@
 target/
-*.class
-*.jar
+#*.class
+#*.jar
 #*.war
-*.ear
+#*.ear
 *.logs
 *.iml
 .idea/
