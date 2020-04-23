@@ -1,7 +1,7 @@
 target/
 *.class
 *.jar
-*.war
+#*.war
 *.ear
 *.logs
 *.iml
