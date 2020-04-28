@@ -20,6 +20,13 @@
         <jetty.stop-key>STOP</jetty.stop-key>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.face_timer</groupId>
+            <artifactId>com.face_timer.web.war</artifactId>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>
